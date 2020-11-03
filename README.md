@@ -1,4 +1,4 @@
-# URL-shortener using Djano
+# This is a URLShortener Site made by Django. Algorithm made in this site is very efficient 👍
 
 URL's can be extremely long and not use-friendly.when people share links or even try to remember a URL,it's because most URLs are filled with more difficult characters and don't form meaningful words.
 
